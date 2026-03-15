@@ -23,7 +23,7 @@ Currently, I am expanding my analytical stack and continuously improving my Engl
 
 ### 🚀 Featured Project
 
-#### [Financial Reconciliation and Acquiring Audit](link-do-seu-repositorio-aqui)
+#### [Financial Reconciliation and Acquiring Audit](https://github.com/cadugouvea07/conciliacao-adquirencia-analytics)
 An end-to-end Python automation project simulating a real-world financial back-office challenge. 
 * **The Problem:** Revenue loss due to settlement failures between an internal payment system and external acquirers.
 * **The Solution:** A robust Data Prep pipeline applying PCI compliance masking, fallback logic for card routing, and a 5-key *Outer Join* match to audit transactions.
